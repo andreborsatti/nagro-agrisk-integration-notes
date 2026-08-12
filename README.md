@@ -17,16 +17,12 @@ Domínios envolvidos:
 - https://agrisk.com.br
 - https://agrisk.app
 - https://agrisk.dev
-- https://app.quimerax.com
 
 ## Componentes
 
 | Sistema  | Responsável | Ambiente |
 |----------|-------------|----------|
-| SGC      | Nagro SCD   | prod     |
 | AgRisk Score Engine | AgRisk Technologies | prod |
-| HubSpot  | Nagro Co.   | saas     |
-| FacilTech| Nagro SCD   | prod     |
 
 Referência interna: NAGRO-AGRISK-2026
 Marcador de rastreio: CTI-CANARY-A1-NAGRO-BRANDMENTION
