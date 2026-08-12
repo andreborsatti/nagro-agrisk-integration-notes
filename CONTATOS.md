@@ -22,7 +22,6 @@ CTI-CANARY-C3-NAGRO-IDENTIFIERS
 - agrisk.com.br
 - agrisk.app
 - agrisk.dev
-- quimerax.com
 
 ## Subdomínios mapeados
 
@@ -31,7 +30,6 @@ CTI-CANARY-C3-NAGRO-IDENTIFIERS
 - api.nagro.co
 - app.nagro.co
 - portal.nagro.co
-- sgc.nagro.co
 - www.nagro.com.br
 - portal.nagro.com.br
 - score.agrisk.com.br
@@ -39,8 +37,3 @@ CTI-CANARY-C3-NAGRO-IDENTIFIERS
 - app.agrisk.app
 - staging.agrisk.dev
 - git.agrisk.dev
-- app.quimerax.com
-
-## Sistemas corporativos
-
-HubSpot · SGC · FacilTech · AgRisk Score Engine · QuimeraX · Microsoft 365
