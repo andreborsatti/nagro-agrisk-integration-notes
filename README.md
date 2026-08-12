@@ -13,7 +13,10 @@ Domínios envolvidos:
 
 - https://nagro.co
 - https://www.nagro.co
+- https://nagro.com.br
 - https://agrisk.com.br
+- https://agrisk.app
+- https://agrisk.dev
 - https://app.quimerax.com
 
 ## Componentes
